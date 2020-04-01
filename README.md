@@ -1,6 +1,5 @@
 # Neural-Networks-AND-Machine-Learning-Worksheet-2
 7COM1033
-Jan T Kim, j.t.kimherts.a.uk
 Semester B 2019/20
 10 Feb 2020
 Neural Networks & Machine Learning: Worksheet 2
